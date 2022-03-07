@@ -2,7 +2,7 @@
 
 To proceed with answering the question of whether the company will be able to pay the loan back and be able to meet the new purchase order, the equation of value needs to be stated.
 
-This equation consists of the total costs and total revenue: =
+This equation consists of the total costs and total revenue:
 ### Total Costs :
     t_org: Total value of original books purchased+
     t_new: Total value of new books planning to be purchased+
